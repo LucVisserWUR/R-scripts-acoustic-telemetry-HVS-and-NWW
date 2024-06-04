@@ -1,0 +1,84 @@
+﻿Receiver_location,Owner,Receiver_type,Position,Range_test,Comments_Oct2023,Comments_Jan2024
+Aardappelengat A5,WMR,VR2Tx,Spar,,,
+Aardappelengat A6,WMR,VR2Tx,Spar,,,
+Aardappelengat A4,WMR,VR2Tx,Spar,,,
+Amer A3,SVN,VR2W,Boei,,,
+Amer A5,SVN,VR2W,Boei,,,
+BeerKanaal B1,WMR,VR2Tx,Boei,,Owner PortRotterdam,no longer from PORT Rotterdam
+Beneden Merwede BE 1A,SVN,VR2W,Boei,,,
+Beneden Merwede BE 2,SVN,VR2W,Spar,,,Was afgebroken bij de staalkabel
+Beningen BN 6,SVN,VR2W,Spar,,,Langzaam met uitlezen.
+Beningen BN 5,SVN,VR2Tx,Spar,,Sync tag van low naar medium 20230315,
+CalandKanaal CA4,WMR,VR2Tx,Boei,,Owner PortRotterdam,No longer from PORT Rotterdam
+Dordtsche Kil D 1,SVN,VR2W,Boei,,Extra gewicht bijgehangen,
+Dordtsche Kil D 2A,SVN,VR2W,Boei,,Extra gewicht bijgehangen,
+Haringvliet HV 25,SVN,VR2W,Spar,,,
+Haringvliet HV 26,SVN,VR2Tx,Spar,,,
+Haringvliet HV3,WMR,VR2Tx,Spar,,,
+Haringvliet HV5,WMR,VR2Tx,Spar,,,
+Haringvliet HV7,WMR,VR2Tx,Spar,,,
+Haringvliet HV2A,WMR,VR2Tx,Spar,,,
+Haringvliet HD-G,SVN,VR2Tx,Spar,"90s high diagn 20230315-20230405, ",Sync tag van low naar medium 20230315, Onvolledige dataoffload.
+Haringvliet HD-H,SVN,VR2W,Spar,,,
+Haringvliet HD-I,SVN,VR2W,Spar,,,
+Haringvliet HD-B,SVN,VR2W,Spar,,,Deed er lang over om uit te lezen.
+Haringvliet HD-C,SVN,VR2Tx,Spar,90s high diagn 20230315-20230405,Sync tag van low naar medium 20230315,
+Haringvliet HD-D,SVN,VR2W,Spar,,,
+Haringvliet HD-E,SVN,VR2W,Spar,20230315-20230405,,
+Haringvliet HD-F,SVN,VR2W,Spar,,,"HDF, maar deels uitgelezen!! Onvolledige download gedaan ivm zeer langzame offload"
+Hartelkanaal SB-B,SVN/Removed,VR2Tx,Spar,,Blijkt verdwenen bij controle op 20231013,
+Hartelkanaal SB-E,SVN,VR2W,Spar,,,
+Hitsertse of Vuile Gat VG 5,SVN,VR2W,Spar,,,Langzaam met uitlezen. Geen bijzonderheden.
+Hitsertse of Vuile Gat VG 8,SVN,VR2Tx,Boei,,,
+Hollands Diep HD 33,SVN,VR2W,Boei,,,Langzaam met uitlezen.
+Hollands Diep HD 30,SVN,VR2Tx,Boei,,,
+Maasmond Maas 5,WMR,VR2Tx,Boei,,,
+Maasmond CA2-NW1,WMR,VR2Tx,Boei,,,
+Maasmond Maas 4,WMR,VR2Tx,Boei,,,
+Maasvlakte-Maasgeul Maas1,WMR,VR2W,Boei,,,
+Maasvlakte-Maasgeul MV N,WMR,VR2W,Boei,,,
+Maasvlakte-Maasgeul MV A,WMR,VR2W,Boei,,,
+Maasvlakte-Maasgeul MVB,WMR,VR2W,Boei,,,
+Maasvlakte-Maasgeul MVC,WMR,VR2W,Boei,,,
+Nieuwe Maas NM 23,SVN,VR2W,Boei,,,Uitlezen duurt te lang
+Nieuwe Maas NM 21,SVN,VR2W,Boei,,,
+Nieuwe Merwede NM 8,SVN,VR2W,Boei,,,Maakte moeilijk contact 
+Nieuwe Merwede NM 6,SVN,VR2W,Ton,,,Maakte moeilijk contact 
+NieuweWaterweg NW3,WMR,VR2Tx,Boei,,,
+NieuweWaterweg NW2,WMR,VR2Tx,Boei,,,
+NieuweWaterweg NW25,WMR,VR2Tx,Spar,,,
+NieuweWaterweg NW8,WMR,VR2Tx,Boei,,,
+Noord N4,SVN,VR2W,Spar,,"Receiver verplaats van OudeMaas O59, zelfde vrl file",Receiver Oude Maas O 59
+Noord N2,SVN,VR2W,Spar,,"Receiver verplaats van OudeMaas O57, zelfde vrl file",
+NoordPampus P8,WMR,VR2Tx,Boei,,,
+NoordPampus P7,WMR,VR2Tx,Boei,,,CT meter RWS
+NoordPampus P6,WMR,VR2Tx,Boei,,Gewicht verloren,
+NoordPampus P1,WMR,VR2Tx,Boei,,,
+NoordPampus P4,WMR,VR2Tx,Boei,,,Gewicht verloren jan2024
+NoordPampus P9,WMR,VR2Tx,Boei,,,
+NoordPampus P10,WMR,VR2Tx,Boei,,,
+Noordzee HP-WNB 15A,WMR,VR2W,Omhoog op grond,,,
+Oude Maas O 57,SVN/Removed,VR2W,Spar,,"Receiver verplaats naar Noord N2, zelfde vrl file",
+Oude Maas O 59,SVN/Removed,VR2W,Spar,,"Receiver verplaats naar Noord N4, zelfde vrl file",
+Oude Maas BB A,SVN,VR2W,Spar,,,
+Oude Maas BB-C,SVN,VR2Tx,Spar,90s 20230405- tot???,Sync tag van low naar medium 20230405,
+Oude Maas BB-E,SVN,VR2W,Spar,,,
+Slijkgat HS8,WMR,VR2Tx,Ton,,,
+Slijkgat HS6,WMR,VR2Tx,Ton,,,
+Slijkgat HS4,WMR,VR2Tx,Ton,,,
+Slijkgat HS2,WMR,VR2Tx,Ton,,,CT meter RWS
+Slijkgat SG7,WMR,VR2Tx,Boei,,Gewicht verloren,
+Slijkgat SG12,WMR,VR2Tx,Boei,,,
+Slijkgat SG6,WMR,VR2Tx,Boei,,Gewicht verloren,
+Slijkgat SG2,WMR,VR2W,Boei,,Gewicht verloren,"Hele boei op drift gegaan op 20240117, 9:50. Geen nieuwe data sinds okt2023 iets mis met receiver of geen vissen langsgekomen?"
+Spui SP 4,SVN,VR2Tx,Spar,,Sync tag van low naar medium 20230315,
+Spui SP 6,SVN,VR2W,Spar,,,
+Zuid Hollandsch Diep 5,SVN,VR2W,Spar,,,Langzaam met uitlezen.
+Zuid Hollandsch Diep 3,SVN,VR2Tx,Spar,,,
+Goereesesluis ZOUT,WMR,VR2W,Omhoog op grond,,,Langzaam uitlezen
+Goereesesluis ZOET,WMR,VR2W,Omhoog op grond,,,Heel langzaam uitlezen
+Bunker,WMR/Zelf,VR2W,Omhoog op grond,,,
+AMER - NOORDERGAT,SVN/Zelf,VR2W,Omhoog aan Kabel,,,
+AMER - ZUIDERGAT,SVN/Zelf,VR2Tx,Omhoog aan Kabel,,,
+Haringvliet HD-E,SVN,,1m onder receiver,,"14 days and then OFF, power output?",
+Haringvliet HD-E,SVN,,1m onder receiver,,"14 days and then OFF, power output?",
