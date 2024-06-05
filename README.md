@@ -1,4 +1,4 @@
-Steps to analyse the performenace of the acoustic telemetry network around the Haringvlietsluices (HVS) and Nieuwe Waterweg (NWW):
+Steps to analyse the performance of the acoustic telemetry network around the Haringvlietsluices (HVS) and Nieuwe Waterweg (NWW):
 
  1. First load the data set that contains all the detections. Do so in the 'Abacus_DE_time_distance_HVS_NWW.R' R script.
     For this, you need the csv file 'Detections2023_2024.csv'. This file is too big too upload in GitHub. Contact me personally to receive this csv file.
@@ -13,6 +13,6 @@ Steps to analyse the performenace of the acoustic telemetry network around the H
    This will result in two data frames: 'one_hourly_observed_expected_detections_HVS' and 'one_hourly_observed_expected_detections_NWW'
    Use these two dataframes for all the remaining script that require the calculated detection efficiencies.
 
-4. To dive deeper into the effects of different types of sluice management, continue with the 'Sluice_management_analysis_FINAL.R' script
+4. To dive deeper into the effects of different types of sluice management, continue with the 'Sluice_management_analysis_FINAL.R' script. To work with this script you'll need to load the 'Env_Getij_Spui_Kier_HVS.csv' csv file, which is also provided in the repository. 
 
 5. 
