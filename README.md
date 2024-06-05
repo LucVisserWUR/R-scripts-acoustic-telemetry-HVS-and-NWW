@@ -16,3 +16,8 @@ Steps to analyse the performance of the acoustic telemetry network around the Ha
 4. To dive deeper into the effects of different types of sluice management, continue with the 'Sluice_management_analysis_FINAL.R' script. To work with this script you'll need to load the 'Env_Getij_Spui_Kier_HVS.csv' csv file, which is also provided in the repository. 
 
 5. 
+
+
+
+
+7. In the 4th chapter of the 'Mainscript' you'll be required to import receiver information from VUE first. Do so for the receivers (called sync transmitters in the R script) of your interest. 
