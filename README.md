@@ -1,5 +1,7 @@
 Steps to analyse the performance of the acoustic telemetry network around the Haringvlietsluices (HVS) and Nieuwe Waterweg (NWW):
 
+Comment: For step 1 - 4, you'll only need the branch named 'main'. After that, you'll also need files from the 'Environmental-variable-csv-files' branch
+
  1. First load the data set that contains all the detections. Do so in the 'Abacus_DE_time_distance_HVS_NWW.R' R script.
     For this, you need the csv file 'Detections2023_2024.csv'. This file is too big too upload in GitHub. Contact me personally to receive this csv file.
 
@@ -16,6 +18,10 @@ Steps to analyse the performance of the acoustic telemetry network around the Ha
 4. To dive deeper into the effects of different types of sluice management, continue with the 'Sluice_management_analysis_FINAL.R' script. To work with this script you'll need to load the 'Env_Getij_Spui_Kier_HVS.csv' csv file, which is also provided in the repository. 
 
 5. Now you can import the environmental variable information, to later link it to the detection efficiencies that were calculated in DE_calculation_HVS_1_hour.R' and 'DE_calculation_NWW_1_hour'.
+To correlate detection efficiency with the environmental variables, you should start with the 'Env_Variables_HVS_NWW_MainScript.R' script. This script will form the mainscript for all the plots and statistical analyses you will later do. In the 'Env_Variables_HVS_NWW_MainScript.R' script you will import environmental data by importing a variety of environmental variable csv files. All these csv files can be found in the 'Environmental-variable-csv-files' branch. 
+
+
+Environmental-variable-csv-files
    
 
 DE_Env_Var_HVS_NWW_Plots_FINAL.R
